@@ -25,7 +25,7 @@ API desenvolvida em **Django REST Framework + MongoDB** para gerenciar o cadastr
 ---
 
 ## 📂 Estrutura de pastas
-
+'''
 backend/
 ├─ .venv/ 
 ├─ .env
